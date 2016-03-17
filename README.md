@@ -55,15 +55,15 @@ The message you send should look something like this:
 
 >Hi [name],
 
-I hope you’ve been doing well. As you know, I’ve been looking for a new job as a software developer. I noticed that you are connected to [target name] and was hoping you could introduce us if you feel comfortable doing so. 
+>I hope you’ve been doing well. As you know, I’ve been looking for a new job as a software developer. I noticed that you are connected to [target name] and was hoping you could introduce us if you feel comfortable doing so. 
 
-[Add the reason why you want an intro: “I am interested in [company name], and I see they work there.” Or, “I noticed [target name] works as a software engineer, and I was hoping to glean some insights about their day-to-day.”] 
+>[Add the reason why you want an intro: “I am interested in [company name], and I see they work there.” Or, “I noticed [target name] works as a software engineer, and I was hoping to glean some insights about their day-to-day.”] 
 
-I understand you may have a lot going on, so I’d be happy to write a short blurb if you think that might be helpful? I so appreciate your time. 
+>I understand you may have a lot going on, so I’d be happy to write a short blurb if you think that might be helpful? I so appreciate your time. 
 
-Thanks,
+>Thanks,
 
-[Your name]
+>[Your name]
 
 ## Conclusion 
 
