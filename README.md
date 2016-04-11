@@ -71,5 +71,29 @@ Leveraging your first and second-degree network is one of the most effective way
 
 Remember: cultivating a strong professional network is a long-term game. Even when you’re not actively looking for a new opportunity, you should still be building new connections as well as nurturing existing ones.
 
+## Assignment- Leveraging Your Network  
+
+Create a new Google doc. Remember to title it with ""Your Name" + Leveraging Your Network."
+
+This will be the start of many emails you'll write to people in your network, so we'll keep this one short. 
+
+Think of someone in your network who can introduce you to someone you'd like to be connected to. Then using the tips above, write in the Google document, the email that you would send to that person. 
+
+**Submit** your resume to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+
+In this case, your email subject line will be “”Your Name” + Leveraging Your Network”
+
+In the body of your email again include:
+
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url to this specific Google document
+
+Update your Careers Prep Tracker sheet with the date submitted.
+
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-leveraging-your-network'>Careers Leveraging Your Network </a> on Learn.co and start learning to code for free.</p>
