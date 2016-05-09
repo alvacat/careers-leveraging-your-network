@@ -79,7 +79,9 @@ This will be the start of many emails you'll write to people in your network, so
 
 Think of someone in your network who can introduce you to someone you'd like to be connected to. Then using the tips above, write in the Google document, the email that you would send to that person. 
 
-**Submit** your resume to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
+
+Remember in the subject line to include your name and this specific assignment.
 
 In this case, your email subject line will be “”Your Name” + Leveraging Your Network”
 
