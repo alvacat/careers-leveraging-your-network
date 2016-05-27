@@ -71,31 +71,3 @@ Leveraging your first and second-degree network is one of the most effective way
 
 Remember: cultivating a strong professional network is a long-term game. Even when you’re not actively looking for a new opportunity, you should still be building new connections as well as nurturing existing ones.
 
-## Assignment- Leveraging Your Network  
-
-Create a new Google doc. Remember to title it with "Your Name" + "Leveraging Your Network."
-
-This will be the first of many networking emails you'll write, so let's start practicing now. The first few networking emails you write might feel weird, and that's okay. Your coach will help you write emails to people you're trying to network with until you're comfortable writing them on your own. It takes practice!
-
-Think of someone in your network who can introduce you to someone you'd like to be connected to, or someone you know who works at a company that interests you. Using the tips above, write in the Google document, the email that you would send to that person making a specific ask (e.g. an introduction to someone else specific in their network or a hiring manager at the company where they work).
-
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
-
-Remember in the subject line to include your name and this specific assignment.
-
-In this case, your email subject line will be “Your Name” + "Leveraging Your Network”
-
-In the body of your email again include:
-
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url to this specific Google document
-
-Update your Careers Prep Tracker sheet with the date submitted.
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-leveraging-your-network'>Careers Leveraging Your Network </a> on Learn.co and start learning to code for free.</p>
