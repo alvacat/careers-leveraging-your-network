@@ -35,7 +35,7 @@ Again, LinkedIn is an excellent tool for finding these second-degree connections
 
 As you can see above, when you visit a company page on LinkedIn it will show who you know that works at that company. It will also show any second-degree connections you have that work at the company. So, even if you don’t have a direct contact at the company, you can still use second-degree connections as a way in. The way to do this is by asking your first-degree connection for an introduction.
 
-**Important note:** LinkedIn has a feature that prompts to you “Ask for an introduction” via LinkedIn’s platform. Do not use this feature -- message the person directly through LinkedIn’s messaging feature where you can write a custom message or just email them. The “Ask for an introduction” feature is too impersonal to likely get you what you want. 
+**Important note:** LinkedIn has a feature that prompts you to “Ask for an introduction” via LinkedIn’s platform. Do not use this feature -- message the person directly through LinkedIn’s messaging feature where you can write a custom message or just email them. The “Ask for an introduction” feature is too impersonal to likely get you what you want. 
 
 But before requesting an introduction to a connection's connection, it is best to have some kind of current relationship with that person. 
 
@@ -71,3 +71,5 @@ Leveraging your first and second-degree network is one of the most effective way
 
 Remember: cultivating a strong professional network is a long-term game. Even when you’re not actively looking for a new opportunity, you should still be building new connections as well as nurturing existing ones.
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-leveraging-your-network'>Leveraging Your Network</a> on Learn.co and start learning to code for free.</p>
