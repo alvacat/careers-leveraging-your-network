@@ -73,7 +73,7 @@ Remember: cultivating a strong professional network is a long-term game. Even wh
 
 ## Next Steps
 
-Check out [this short video](https://youtu.be/j6Zo85pRGkk)from Career Services for more information on Networking Best Practices. This content will also be covered with more detail in future lessons! 
+Check out [this short video](https://youtu.be/j6Zo85pRGkk) from Career Services for more information on Networking Best Practices. This content will also be covered with more detail in future lessons! 
 
 
 
