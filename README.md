@@ -71,5 +71,10 @@ Leveraging your first and second-degree network is one of the most effective way
 
 Remember: cultivating a strong professional network is a long-term game. Even when you’re not actively looking for a new opportunity, you should still be building new connections as well as nurturing existing ones.
 
+## Next Steps
+
+Check out [this short video](https://youtu.be/j6Zo85pRGkk)from Career Services for more information on Networking Best Practices. This content will also be covered with more detail in future lessons! 
+
+
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-leveraging-your-network'>Leveraging Your Network</a> on Learn.co and start learning to code for free.</p>
