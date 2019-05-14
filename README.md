@@ -16,9 +16,9 @@ People you know include:
 * Flatiron School alumni
 * People you have met recently at meetups, events, job fairs, dinner parties, etc. 
 
-You can reach out to each person individually—on the phone or through email—and see if they know of any opportunities for developers or companies looking to hire. You can also use one of the best research tools out there, LinkedIn, to see where your connections are working, and in what positions.
+You can reach out to each person individually—on the phone or through email—and see if they know of any job opportunities for companies looking to hire someone with your skill set. You can also use one of the best research tools out there, LinkedIn, to see where your connections are working, and in what positions.
 
-LinkedIn is a goldmine for this kind of research. It allows you to scan your connections and see what they’re up to. When you do this, you should be looking out for those who work, or have worked, at companies you want to work for. You can also keep an eye out for people who are holding positions you would like to have—now or in the future. (E.g. “Software Engineer” or “Full-Stack Developer”.)
+LinkedIn is a goldmine for this kind of research. It allows you to scan your connections and see what they’re up to. When you do this, you should be looking out for those who work, or have worked, at companies you want to work for. You can also keep an eye out for people who are holding positions you would like to have—now or in the future. (E.g. “Software Engineer” or “Full-Stack Developer” or “UX/UI Designer” or “Data Scientist”, etc.)
 
 The stronger your relationship is with the person you’d like to reach out to, the easier it is to ask about opportunities (and the more direct you can be about asking for a connection to a potential job/referral). This is why networking and relationship-building is something you should be doing continuously, even when you’re not actively searching for a job.
 
@@ -60,9 +60,9 @@ The message you send should look something like this:
 
 >Hi [name],
 
->I hope you’ve been doing well. As you know, I’ve been looking for a new job as a software developer. I noticed that you are connected to [target name] and was hoping you could introduce us if you feel comfortable doing so. 
+>I hope you’ve been doing well. As you know, I’ve been looking for a new job as a [target job title]. I noticed that you are connected to [target name] and was hoping you could introduce us if you feel comfortable doing so. 
 
->[Add the reason why you want an intro: “I am interested in [company name], and I see they work there.” Or, “I noticed [target name] works as a software engineer, and I was hoping to glean some insights about their day-to-day.”] 
+>[Add the reason why you want an intro: “I am interested in [company name], and I see they work there.” Or, “I noticed [target name] works as a [target job title], and I was hoping to glean some insights about their day-to-day.”] 
 
 >I understand you may have a lot going on, so I’d be happy to write a short blurb if you think that might be helpful? I so appreciate your time. 
 
@@ -86,7 +86,7 @@ The goal of this communication is to strengthen the relationship, as well as get
 
 To a recruiter:
 
-* What makes a developer successful at Company X?
+* What makes a [target job title] successful at Company X?
 * What would you identify as the top three soft skills Company X values?
 * Do you have time for a 30 minute phone call so that I can learn more about this opportunity?
 
@@ -94,17 +94,17 @@ To the person in the job you want:
 
 * What is your favorite part of working at Company X?
 * What is your favorite meet-up?
-* Could you take a look at my GitHub and give me some feedback?
+* Could you take a look at my GitHub projects and give me some feedback?
 * Would you mind taking a look at my resume and sharing your first impressions?
 Do you have time for me to buy you coffee and learn more about what you do at (Company X)?
-* Can we grab lunch and talk about advice you have for a new developer?
-* I noticed that your company has an opening for a junior developer. What do you think is the best way for me to demonstrate my interest?
+* Can we grab lunch and talk about advice you have for someone entering this field?
+* I noticed that your company has an opening for a [target job title]. What do you think is the best way for me to demonstrate my interest?
 
 To your well-connected friend:
 
 * I saw that you are connected with (developer/recruiter) on LinkedIn, would you mind connecting us over email?
 * Are you going to the (Networking Event) meet-up? I’d love to go with you!
-* You mentioned your company is hiring a developer. Would you be able to connect me to the hiring manager via email?
+* You mentioned your company is hiring a [target job title]. Would you be able to connect me to the hiring manager via email?
 
 ### Common Questions
 
@@ -136,8 +136,4 @@ Leveraging your first- and second-degree network is one of the most effective wa
 
 ## Next Steps
 
-Check out [this short video](https://youtu.be/j6Zo85pRGkk) from Career Services for more information on Networking Best Practices. This content will also be covered with more detail in future lessons! 
-
-
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-leveraging-your-network'>Leveraging Your Network</a> on Learn.co and start learning to code for free.</p>
+Check out [this short video](https://youtu.be/j6Zo85pRGkk) from Career Services for more information on Networking Best Practices. This content will also be covered with more detail in future lessons!
