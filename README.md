@@ -1,6 +1,6 @@
 # Leveraging Your Network 
 
-An important part of any job search, regardless of where you live, is leveraging your existing network. According to an [ABC report](http://www.recruitingblogs.com/profiles/blogs/80-of-today-s-jobs-are-landed-through-networking), 80% of jobs are landed through networking. Even more, a 2014 Jobvite study reported that 64% of recruiters found the “highest quality” candidates came from referrals. 
+An important part of any job search, regardless of where you live, is leveraging your existing network. According to a [Business Insider article](https://www.businessinsider.com/at-least-70-of-jobs-are-not-even-listed-heres-how-to-up-your-chances-of-getting-a-great-new-gig-2017-4), 70+% of jobs are landed through networking. 
 
 For these reasons and others, leveraging your network is important. Below we’ll cover two ways to do this: through those you already know (first-degree connections) and people who know people you know (second-degree connections). 
 
@@ -15,10 +15,11 @@ People you know include:
 * Former colleagues
 * Flatiron School alumni
 * People you have met recently at meetups, events, job fairs, dinner parties, etc. 
+* People you served in the military with
 
 You can reach out to each person individually—on the phone or through email—and see if they know of any job opportunities for companies looking to hire someone with your skill set. You can also use one of the best research tools out there, LinkedIn, to see where your connections are working, and in what positions.
 
-LinkedIn is a goldmine for this kind of research. It allows you to scan your connections and see what they’re up to. When you do this, you should be looking out for those who work, or have worked, at companies you want to work for. You can also keep an eye out for people who are holding positions you would like to have—now or in the future. (E.g. “Software Engineer” or “Full-Stack Developer” or “UX/UI Designer” or “Data Scientist”, etc.)
+LinkedIn is a goldmine for this kind of research. It allows you to scan your connections and see what they’re up to. When you do this, you should be looking out for those who work, or have worked, at companies you want to work for. You can also keep an eye out for people who are holding positions you would like to have—now or in the future. (E.g. “Software Engineer” or “Full-Stack Developer” or “UX/UI Designer” or “Data Scientist” or "Security Analyst" or "Security Engineer", etc.)
 
 The stronger your relationship is with the person you’d like to reach out to, the easier it is to ask about opportunities (and the more direct you can be about asking for a connection to a potential job/referral). This is why networking and relationship-building is something you should be doing continuously, even when you’re not actively searching for a job.
 
